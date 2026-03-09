@@ -12,6 +12,7 @@ This project integrates essential analog building blocks such as **Bandgap Refer
 - [Performance](#performance)
 - [Layouts](#layouts)
 - [Results](#results)
+- [projectposter](#projectposter)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -68,6 +69,25 @@ It highlights **adaptive biasing techniques** and **block-level modularity** for
 ![Load Regulation Graph](images/load_regulation_plot.png)
 
 ---
+
+## 📰 Project Poster
+
+The following poster summarizes the **Mixed-Signal IC Layout for Adaptive Biasing and Power Management in Low-Power Applications**.  
+It highlights the **overview, key features, performance metrics, architecture, layout techniques, and results** of the design.
+
+![Project Poster](images/poster.jpeg)
+
+### 🔑 Poster Highlights
+- **Overview**: Compact mixed-signal analog IP using GPDK 90nm CMOS process.  
+- **Key Features**: Bandgap Reference, OTAs, Error Amplifiers, Comparators, Flash ADC with digital feedback.  
+- **Performance**: Verified post-layout with <1% line regulation, <2% load regulation, and 85–88% efficiency at 10 mA.  
+- **Layout Techniques**: Symmetry, Matching, Guard Rings, Shielded Routing, Common Centroid, LVS/DRC compliance.  
+- **Results**: Graphs for Bandgap vs Temperature, Transient Response, and Load Regulation.  
+
+---
+
+📌 *Tip*: Keep the poster image inside `docs/images/posters/` and reference it with a relative path so GitHub can render it directly.
+
 
 ## 🤝 Contributing
 Contributions are welcome!  
