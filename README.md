@@ -56,7 +56,7 @@ It highlights **adaptive biasing techniques** and **block-level modularity** for
 
 ## 🖼 Layouts
 ### Full Chip Layout
-![IC Layout](images/Top layout.jpeg)
+![IC Layout](images/Toplayout.jpeg)
 
 ---
 
