@@ -10,7 +10,6 @@ This project integrates essential analog building blocks such as **Bandgap Refer
 - [Key Features](#key-features)
 - [Architecture](#architecture)
 - [Performance](#performance)
-- [Schematics](#schematics)
 - [Layouts](#layouts)
 - [Results](#results)
 - [Contributing](#contributing)
@@ -52,27 +51,21 @@ It highlights **adaptive biasing techniques** and **block-level modularity** for
 | Efficiency @ 10 mA     | 85–88%                |
 | Operating Temperature  | -5°C to 90°C (sim.)   |
 
----
-
-## 📐 Schematics
-### Bandgap Reference & Amplifiers
-![Schematic 1](attachments/VZhsYhsNG9K2bpBtTNcNv.jpeg)
-![Schematic 2](attachments/pYMEvzkynDkHa24FbiEDy.jpeg)
 
 ---
 
 ## 🖼 Layouts
 ### Full Chip Layout
-![IC Layout](attachments/sarbhVxrazxhtnZtLMS79.jpeg)
+![IC Layout](images/Top layout.jpeg)
 
 ---
 
 ## 📈 Results
 ### Line Regulation (FF, -20 °C)
-![Line Regulation Graph](attachments/FoknpEXP47KduBZB2eLMe.png)
+![Line Regulation Graph](images/line_regulation_plot.png)
 
 ### Load Regulation (TT, 1.8 V, 27 °C)
-![Load Regulation Graph](attachments/wihMivTmpgbdkcAGB7LoQ.png)
+![Load Regulation Graph](images/load_regulation_plot.png)
 
 ---
 
