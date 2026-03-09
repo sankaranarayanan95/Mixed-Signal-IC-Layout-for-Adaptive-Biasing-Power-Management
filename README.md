@@ -35,7 +35,7 @@ It highlights **adaptive biasing techniques** and **block-level modularity** for
 ---
 
 ## 🏛 Architecture
-![Architecture Diagram](attachments/KdfmX51PDW68TmfVTKriY.jpeg)
+![Architecture Diagram](images/schematic.jpeg)
 
 ---
 
